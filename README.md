@@ -1,6 +1,7 @@
 # Dev_Environment_AzCli
 
 Introduction
+
 DevOps is a journey not a destination.
 
 Infrastructure-as-Code is one of the first steps you need to take on your DevOps journey!
